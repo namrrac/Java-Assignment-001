@@ -39,7 +39,7 @@ finds a way."
 /**
 *
 * @author Trevor Hartman
-* @author <REPLACE with YOUR NAME>
+* @author Jason Carr
 *
 * @since Version 1.0
 *
